@@ -1,0 +1,8 @@
+---
+applications:
+- name: smartpooler3
+  memory: 512M
+  host: smartpooler3
+  domain: mybluemix.net
+  services:
+  - dashDB-smartpooler
